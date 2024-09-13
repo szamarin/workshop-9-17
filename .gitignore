@@ -3,3 +3,4 @@ data
 lab_values.json
 loan_data.duckdb
 transformed_data.npy
+sample_data.tar.gz
